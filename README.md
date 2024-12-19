@@ -1,31 +1,28 @@
 <h1 align="center">Hi 👋, I'm Nithin Reddy Penta Reddy</h1>
-<h3 align="center">🚀 Dedicated Data Enthusiast | Transforming Data into Actionable Insights with Expertise in Investment Banking, M&A, and Financial Modeling</h3>
+<h3 align="center">Dedicated Data Enthusiast looking forward to transforming Data into actionable insights with experience in Investment Banking, M&A, and Financial Modeling</h3>
 
-<p align="center">
-  <i>Turning raw data into powerful stories and insights, one project at a time!</i>
-</p>
+- 🌱 I’m currently learning **Python, R, SQL & Tableau**
+- 👯 I’m looking to collaborate on **Data Analysis and Financial Modeling Projects**
+- 👨‍💻 All of my projects are available at [https://github.com/nithinreddyp28](https://github.com/nithinreddyp28)
+- 💬 Ask me about **Data Cleaning, Data Transformation, Data visualization, Data Engineering, Python, R, Tableau, Power BI, SQL**
+- 📫 How to reach me **nithinreddy28@gmail.com**
 
-- 🌱 **Currently learning**: Python, R, SQL, Tableau & enhancing my Data Science toolkit.
-- 👯 **Looking to collaborate on**: Data Analysis, Financial Modeling, M&A, and Investment Banking Projects.
-- 👨‍💻 **Check out my projects**: All of my work is available at [my GitHub](https://github.com/nithinreddyp28).
-- 💬 **Ask me about**: Data Cleaning, Data Transformation, Data Visualization, Python, R, SQL, Tableau, Power BI, Financial Modeling & more!
-- 📫 **Get in touch**: Feel free to drop me an email at [nithinreddy28@gmail.com](mailto:nithinreddy28@gmail.com).
-
----
-
-### 🌍 Connect with Me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/nithin-reddy-penta-reddy-32093bb9/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/nithinreddy28" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
+  <a href="https://linkedin.com/in/in/nithin-reddy-penta-reddy-32093bb9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/nithin-reddy-penta-reddy-32093bb9/" height="30" width="40" /></a>
+  <a href="https://kaggle.com/nithinreddy28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nithinreddy28" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Recent Experience:</h3>
+<p align="left">
+  <ul>
+    <li><strong>Investment Banking Analyst at UBS:</strong> Collaborated on M&A transactions across the APAC, EMEA, and Americas regions.</li>
+    <li><strong>Financial Modeling & Valuation Expert:</strong> Developed complex financial models for deal structuring and corporate valuation.</li>
+    <li><strong>Data Analyst:</strong> Leveraged statistical analysis and data visualization techniques to support business strategies.</li>
+  </ul>
+</p>
 
-### 🛠️ Technologies and Tools I Use:
+<h3 align="left">Technologies and Tools I Use:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
@@ -45,31 +42,31 @@
   <a href="https://www.microsoft.com/en-us/powerbi" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Power_BI_Logo_2022.svg" alt="Power BI" width="40" height="40" />
   </a>
+  <a href="https://www.mathworks.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
 </p>
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithinreddyp28&show_icons=true&locale=en&layout=compact" alt="nithinreddyp28" /></p>
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nithinreddyp28&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 Recent Experience:
-- **Investment Banking Analyst at UBS**: 
-   - Led M&A advisory projects across **APAC**, **EMEA**, and **Americas** regions, working with global clients on financial modeling, valuations, and deal structuring.
-   - Delivered actionable insights by analyzing financial data and providing strategic recommendations that influenced multi-million dollar decisions.
-   - Built detailed financial models, including DCF and LBO models, to assess potential acquisitions and investments.
-
-- **Financial Modeling**: 
-   - Developed complex financial models to assess risk, forecast earnings, and evaluate mergers and acquisitions.
-   - Transformed raw data into insights for clients, optimizing decision-making and enhancing strategic planning.
-
-- **Data-Driven Decision Making**: 
-   - Worked with cross-functional teams to collect and clean large datasets, ensuring accuracy and quality.
-   - Utilized tools like **Python**, **SQL**, and **Tableau** to create dashboards and reports that visualize key business metrics and trends.
-
----
-
-Let's build something amazing together! 🚀
+<h3 align="left">Some of My Projects:</h3>
+<ul>
+  <li><strong>Investment Banking Analytics:</strong> Built financial models for M&A analysis and valuation.</li>
+  <li><strong>Data Analysis with Python and SQL:</strong> Analyzed large datasets to uncover trends, patterns, and actionable insights.</li>
+  <li><strong>Predictive Modeling with Machine Learning:</strong> Developed models to forecast financial and business outcomes.</li>
+</ul>
