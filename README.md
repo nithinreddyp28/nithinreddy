@@ -66,7 +66,6 @@
 
 <h3 align="left">Some of My Projects:</h3>
 <ul>
-  <li><strong>Investment Banking Analytics:</strong> Built financial models for M&A analysis and valuation.</li>
-  <li><strong>Data Analysis with Python and SQL:</strong> Analyzed large datasets to uncover trends, patterns, and actionable insights.</li>
+  <li><strong>Data Analysis with R, Python and SQL:</strong> Analyzed large datasets to uncover trends, patterns, and actionable insights.</li>
   <li><strong>Predictive Modeling with Machine Learning:</strong> Developed models to forecast financial and business outcomes.</li>
 </ul>
